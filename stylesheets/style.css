@@ -1,0 +1,10 @@
+h1 {
+  margin-bottom: 0.8em;
+}
+
+#slider {
+  background-image: url('images/june29.jpg');
+  height: 447px;
+  margin: auto;
+}
+

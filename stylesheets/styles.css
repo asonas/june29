@@ -1,0 +1,15 @@
+h1 {
+  margin-bottom: 0.8em;
+}
+
+h2 {
+  font-color: #fdfdfd;
+}
+
+#slider {
+  background-image: url('../images/june29.jpg');
+  background-repeat: no-repeat;
+  height: 400px;
+  margin: auto;
+}
+
